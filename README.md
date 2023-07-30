@@ -1,6 +1,8 @@
 # MachineLearning Perceptron
- Machine Learning techniques to implement Single-Layer and Multi-Layer Perceptron models.
-
+ Machine Learning techniques to implement Single-Layer and Multi-Layer Perceptron models.<br><br>
+ Code Files:
+ 1. Single Layer Perceptron.ipynb
+ 2. Multi Layer Perceptron.ipynb
  
 # Aim
 The goal of this assignment is to read, understand, implement, and evaluate the machine learning algorithms called Perceptron and Multi-Layer Perceptron.
