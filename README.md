@@ -1,4 +1,4 @@
-# MachineLearning Perceptron
+# Machine Learning - Single Layer & Multi-Layer Perceptron
  Machine Learning techniques to implement Single-Layer and Multi-Layer Perceptron models.<br><br>
  Code Files:
  1. Single Layer Perceptron.ipynb
