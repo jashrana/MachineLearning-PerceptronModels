@@ -1,5 +1,5 @@
-# Machine Learning - Single Layer & Multi-Layer Perceptron
- Machine Learning techniques to implement Single-Layer and Multi-Layer Perceptron models.<br><br>
+# Machine Learning - Single Layer & Multi-Layer Perceptron from Scratch
+ Machine Learning techniques to implement Single-Layer and Multi-Layer Perceptron models from Scratch.<br><br>
  Code Files:
  1. Single Layer Perceptron.ipynb
  2. Multi Layer Perceptron.ipynb
